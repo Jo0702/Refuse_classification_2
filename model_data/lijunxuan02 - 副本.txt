@@ -1,0 +1,6 @@
+paper_cup
+waste_paper
+pen
+mask
+glasses
+bottle
